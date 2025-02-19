@@ -7,4 +7,4 @@ A WEB-1 tantárgy anyagai
 - HTML leíró nyelv
 - CSS direktívák
 - JavaScript programozás
-- CDD keretrendszerek
+- CSS keretrendszerek
